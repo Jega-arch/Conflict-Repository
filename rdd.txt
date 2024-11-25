@@ -1,1 +1,1 @@
-rdd is resilent distributed dataset.
+rdd is resilent distributed dataset is true
